@@ -1,0 +1,36 @@
+/* src/App.css */
+
+.login-form {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 300px;
+  }
+  
+  .login-form h3 {
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .navigation {
+    background-color: #333;
+  }
+  
+  .navigation nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navigation li {
+    margin: 0 10px;
+  }
+  
+  .navigation a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
